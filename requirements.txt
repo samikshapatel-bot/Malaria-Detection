@@ -1,9 +1,7 @@
-Flask
-streamlit
-tensorflow==2.13.0
+Flask==2.3.3
+tensorflow-cpu==2.13.0
 numpy
 pillow
 opencv-python
 matplotlib
-scikit-learn
 gunicorn
